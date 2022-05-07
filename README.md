@@ -1,3 +1,14 @@
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target=_blank rel=noopener><img src="https://raw.githubusercontent.com/daiji256/daiji256/main/profile-summary-card-output/github/0-profile-details.svg" width=100%></a>
+## 学歴 / 経歴
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target=_blank rel=noopener><img src="https://raw.githubusercontent.com/daiji256/daiji256/main/profile-summary-card-output/github/1-repos-per-language.svg" width=49.5%></a><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target=_blank rel=noopener><img src="https://raw.githubusercontent.com/daiji256/daiji256/main/profile-summary-card-output/github/2-most-commit-language.svg" width=49.5%></a>
+| 期間         | 内容                                                    |
+| ------------ | ------------------------------------------------------- |
+| **2022 --**  | **某ベンチャー企業 Android アプリエンジニア**           |
+| 2021 -- 2022 | 某ベンチャー企業 Android アプリエンジニア（アルバイト） |
+| 2020 -- 2022 | 某高専 専攻科 工学（電気）                              |
+| 2015 -- 2020 | 某高専                                                  |
+
+## リンク
+
+- [ブログ ![Blog](images/daiji.svg)](https://daiji256.github.io/)
+- [Twitter ![Twitter](images/twitter.svg)](https://twitter.com/Daiji256/)
+- [Qiita ![Qiita](images/qiita.svg)](https://qiita.com/Daiji256/)
